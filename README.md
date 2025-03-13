@@ -94,3 +94,7 @@
 ### Address-Lookup-Table, Config, Feature-Gate
 
   - [Zellic Audit (2024-10-29).pdf](./core-bpf/ZellicAltConfigFeatureGateAudit-2024-10-29.pdf)
+
+### Stake
+
+  - [Zellic Audit (2025-03-12).pdf](./core-bpf/ZellicStakeAudit-2025-03-12.pdf)
