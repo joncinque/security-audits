@@ -90,6 +90,7 @@
 ### P-Token
 
   - [Neodyme Audit (2025-06-12).pdf](./spl/NeodymePTokenPinocchioAudit-2025-06-12.pdf)
+  - [Zellic Audit (2025-06-30).pdf](./spl/ZellicPTokenPinocchioAudit-2025-06-30.pdf)
 
 ## Core BPF Programs
 
@@ -106,3 +107,4 @@
 ### Pinocchio
 
   - [Neodyme Audit (2025-06-12).pdf](./spl/NeodymePTokenPinocchioAudit-2025-06-12.pdf)
+  - [Zellic Audit (2025-06-30).pdf](./spl/ZellicPTokenPinocchioAudit-2025-06-30.pdf)
