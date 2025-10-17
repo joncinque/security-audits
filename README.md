@@ -91,6 +91,7 @@
 
   - [Neodyme Audit (2025-06-12).pdf](./spl/NeodymePTokenPinocchioAudit-2025-06-12.pdf)
   - [Zellic Audit (2025-06-30).pdf](./spl/ZellicPTokenPinocchioAudit-2025-06-30.pdf)
+  - [Zellic Audit (2025-10-13).pdf](./spl/ZellicPTokenAudit-2025-10-13.pdf)
 
 ## Core BPF Programs
 
